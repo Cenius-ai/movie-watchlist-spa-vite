@@ -70,7 +70,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Folder layout: `src/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. Built in Vite (32 files). For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+Folder layout: `src/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. Built in Vite (21 files). For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
